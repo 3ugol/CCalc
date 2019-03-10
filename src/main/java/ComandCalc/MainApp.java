@@ -3,7 +3,7 @@ public class MainApp {
     /**
      * A main() so we can easily run these routing rules in our IDE
      */
-    public static void main(String... args0) throws Exception {
+    public static void main(String... args0)  {
         String [] args={"X","+","5"};
         int x=0; // = Integer.parseInt(args[0]);
         String op = args[1];
